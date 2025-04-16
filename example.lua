@@ -4,7 +4,7 @@ local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/disbu
 local Legit = library:AddWindow('Legit')
 local Rage = library:AddWindow('Rage')
 local AntiAim = library:AddWindow('Anti-Aim')
-local watermark = library:AddWatermark('');
+local watermark = library:AddWatermark('Skidmark.cc');
 
 
 local e = Legit:AddSection('All features')
